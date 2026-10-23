@@ -1,0 +1,3 @@
+## .env removed from version control (contained Resy tokens, since rotated).
+## Keep secrets local only — see .env.example for required variables.
+.env
